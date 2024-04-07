@@ -13,6 +13,8 @@ Is there a correlation between the volume of vehicles observed at the most frequ
 
 **Data Selection**
 
+I have both csv files however they are too large to load into github. Feel free to ask me for them, they can also be found below.
+
   Both datasets were publicly avalible on data.gov and able to be freely downloaded in multiple formats. I downloaded the Department of Transportation, Customs and Border Protection dataset here via csv file: https://catalog.data.gov/dataset/border-crossing-entry-data-683ae. The Centers for Disease Control, National Vital Statistics System is avalible for download from a dashboard here: https://www.cdc.gov/nchs/nvss/vsrr/drug-overdose-data.htm.
 
 
